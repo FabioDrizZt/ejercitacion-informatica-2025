@@ -1,2 +1,2 @@
-# Como hacer que lleguen las pipsas
-1. Llamar a Dominos
+# Receta de como hacer una Pizza
+1. Calentar un vaso de agua tibia
